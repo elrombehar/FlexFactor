@@ -1,0 +1,42 @@
+﻿<Disputes>
+	<Dispute>
+		<DisputeId>case_001</DisputeId>
+		<TransactionId>txn_001</TransactionId>
+		<Amount>100.00</Amount>
+		<Currency>USD</Currency>
+		<Status>Open</Status>
+		<Reason>Fraud</Reason>
+	</Dispute>
+	<Dispute>
+		<DisputeId>case_002</DisputeId>
+		<TransactionId>txn_005</TransactionId>
+		<Amount>150.00</Amount>
+		<Currency>USD</Currency>
+		<Status>Won</Status>
+		<Reason>Product Not Received</Reason>
+	</Dispute>
+	<Dispute>
+		<DisputeId>case_003</DisputeId>
+		<TransactionId>txn_006</TransactionId>
+		<Amount>75.00</Amount>
+		<Currency>USD</Currency>
+		<Status>Open</Status>
+		<Reason>Duplicate</Reason>
+	</Dispute>
+	<Dispute>
+		<DisputeId>case_005</DisputeId>
+		<TransactionId>txn_009</TransactionId>
+		<Amount>250.00</Amount>
+		<Currency>EUR</Currency>
+		<Status>Open</Status>
+		<Reason>Unauthorized</Reason>
+	</Dispute>
+	<Dispute>
+		<DisputeId>case_006</DisputeId>
+		<TransactionId>txn_010</TransactionId>
+		<Amount>1500.00</Amount>
+		<Currency>USD</Currency>
+		<Status>Lost</Status>
+		<Reason>Chargeback</Reason>
+	</Dispute>
+</Disputes>
